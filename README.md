@@ -20,6 +20,7 @@ Usage:
 1.	Execute the SQL queries in your preferred SQL environment.
 2.	Analyze the results to gain insights into Zomato's business performance.
 
-Author:
+Contact:
 Badrinath Tamanna
+LinkedIn: www.linkedin.com/in/badrinath-tamanna
 Email: badrinath.tamanna2@gmail.com
